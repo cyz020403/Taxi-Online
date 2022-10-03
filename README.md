@@ -1,5 +1,5 @@
 # taxi_online project
 
-Assignments for Database Courses of my school
+Assignments for Database Course of my school
 
 Vue2 + axios + Spring Boot + Mybatis + Mysql
