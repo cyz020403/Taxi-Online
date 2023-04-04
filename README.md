@@ -1,4 +1,4 @@
-# taxi_online project
+# Taxi-Online project
 
 Assignments for Database Course of my school
 
