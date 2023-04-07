@@ -1,6 +1,6 @@
 # Taxi-Online
 
-A simple ride-hailing project.
+A simple online taxi project.
 
 
 It's also my assignments for Database Course.
